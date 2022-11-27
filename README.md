@@ -6,9 +6,9 @@ A website to order food from canteens in our college <br/>
 3. OracleDB - Database to store data<br/>
 
 <h4>Functionalities</h4>
-1. Users can login and order food
-2. Vendors can login and see the pending orders in their respective canteens
-3. Vendors can also update Menu
+1. Users can login and order food <br/>
+2. Vendors can login and see the pending orders in their respective canteens<br/>
+3. Vendors can also update Menu<br/>
 
 <h4>Images</h4>
 <p float="left">
