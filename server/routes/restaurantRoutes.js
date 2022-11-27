@@ -9,7 +9,7 @@ router.get('/orders-self', verifyJwtToken, loggedInUser, restaurantController.ge
 router.get('/orders', restaurantController.getAllOrders);
 router.get('/items-self', verifyJwtToken, loggedInUser, restaurantController.getAllItems);
 //need to do this
-router.get('/orders/items/:oId', verifyJwtToken, loggedInUser, restaurantController.getItems)
+// router.get('/orders/items/:oId', verifyJwtToken, loggedInUser, restaurantController.getItems)
 
 router.get('/items/:rid', restaurantController.getAllItems);
 router.post('/items', verifyJwtToken, loggedInUser, restaurantController.addItem);

@@ -1,7 +1,17 @@
-# food-panda
-It is our website made as a part of Database Systems Laboratory course offered in the 6th semester of CSE at IIT Bhubaneswar. <br/>
-Food panda is a website for people of IIT Bhubaneswar to order food from the food stalls available in the campus.<br/>
-The tech stack used was<br/>
-1. ExpressJS (A Node.js framework for writing server side code)<br/>
-2. ReactJS (For frontend)<br/>
-3. OracleDB (Database to store and retrieve data)<br/>
+# Hungry-bird
+A website to order food from canteens in our college <br/>
+<h4>Tech Stack used:</h4>
+1. Node.js + Express.js - To develop Backend API<br/>
+2. ReactJS - To develop the User Interface<br/>
+3. OracleDB - Database to store data<br/>
+
+<h4>Functionalities</h4>
+1. Users can login and order food
+2. Vendors can login and see the pending orders in their respective canteens
+3. Vendors can also update Menu
+
+<h4>Images</h4>
+<img src = "./images/landing_page.png" alt = "Mobile view of Landing page"/>
+<img src = "./images/signup_page.png" alt = "Mobile view of Signup page"/>
+
+
