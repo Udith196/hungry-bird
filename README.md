@@ -12,8 +12,8 @@ A website to order food from canteens in our college <br/>
 
 <h4>Images</h4>
 <p float="left">
-<img src = "./images/landing_page.png" alt = "Mobile view of Landing page" width="100"/>
-<img src = "./images/signup_page.png" alt = "Mobile view of Signup page" width="100px"/>
+<img src = "./images/landing_page.png" alt = "Mobile view of Landing page" width="350"/>
+<img src = "./images/signup_page.png" alt = "Mobile view of Signup page" width="350"/>
 </p>
 
 
